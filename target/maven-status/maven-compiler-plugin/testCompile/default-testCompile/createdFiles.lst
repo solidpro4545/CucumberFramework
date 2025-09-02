@@ -1,0 +1,3 @@
+com\example\AppTest.class
+runners\TestRunner.class
+stepdefs\LoginSteps.class
